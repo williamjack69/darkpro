@@ -13,20 +13,20 @@ Click [here](https://web.facebook.com/100066716900917)
 Click [here](https://web.facebook.com/groups/797101590936141) 
 
 # FACEBOOK CRACKER
-<img src="https://github.com/williamjack69/darkfb0.3/blob/main/ok.jpg" />
+<img src="https://github.com/williamjack69/darkpro/blob/main/tools/ok.jpg" />
 ## How to install
 
 ```
 pkg git install
-git clone hhttps://github.com/williamjack69/darkfb0.3
-cd darkfb0.3
+git clone hhttps://github.com/williamjack69/darkpro
+cd darkpro
 bash setup.sh
 
 ```
 ### And run this script
 ```
 cd
-cd darkfb
+cd darkpro
 python dark.py
 ```
 # Features
