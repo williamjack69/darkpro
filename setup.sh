@@ -27,6 +27,3 @@ pip install getmac
 pip install get_mac
 pip2 install getmac
 pip2 install get_mac
-cd $HOME
-cd darkpro
-python2 dark.py
