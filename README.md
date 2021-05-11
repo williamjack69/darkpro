@@ -27,7 +27,7 @@ bash setup.sh
 ```
 cd
 cd darkpro
-python dark.py
+python2 dark.py
 ```
 # Features
 ```
